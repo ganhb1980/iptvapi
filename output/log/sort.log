@@ -264,6 +264,7 @@ Name: CCTV-8, URL: http://bl.dchwtq.asia:10000/rtp/239.69.1.125:10388$组播源,
 Name: CCTV-8, URL: http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: http://dsj.motem.top:8880/gaoma/cctv8.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://13937899.xyz:35455/gaoma/cctv8.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://yc.myds.me:35455/itv/1000000001000014583.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -489,7 +490,7 @@ Name: CCTV-16, URL: http://13937899.xyz:35455/gaoma/cctv16.m3u8$订阅源, IPv_T
 Name: CCTV-16, URL: http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV-16, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225909/2/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1898,6 +1899,7 @@ Name: 淮安新闻综合, URL: http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjian
 Name: 淮阴综合, URL: https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 苏州新闻综合, URL: http://z.b.bkpcp.top/m.php?id=szxwzh$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 连云港新闻综合, URL: http://z.b.bkpcp.top/m.php?id=lygxwzh$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 靖江新闻综合, URL: http://ls.qingting.fm/live/23797.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁经济, URL: http://ls.qingting.fm/live/23797.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁都市, URL: https://ls.qingting.fm/live/1099/64k.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南都市, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1927,6 +1929,7 @@ Name: 北海经济科教, URL: https://play-a2.quklive.com:443/live/172731169082
 Name: 南宁新闻综合, URL: http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 南宁新闻综合, URL: http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 南宁都市生活, URL: http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 宾阳综合, URL: http://pulls.myun.tv/live/0dkp33j5.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 灌阳新闻综合, URL: http://pulls.myun.tv/live/0dkp33j5.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 灌阳新闻综合, URL: https://ls.qingting.fm/live/5043/64k.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 灌阳新闻综合, URL: https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1982,11 +1985,13 @@ Name: 康巴卫视, URL: http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobi
 Name: 康巴卫视, URL: http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 康巴卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 康巴卫视, URL: http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226263/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 旺苍新闻综合, URL: http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 松潘新闻综合, URL: http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 汉源综合, URL: http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 汶川新闻综合, URL: rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 汶川新闻综合, URL: http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd 剑阁新闻综合$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 沐川综合, URL: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 沐川综合, URL: http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 泸县新闻综合, URL: http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 泸县新闻综合, URL: https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 甘孜综合, URL: https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1999,6 +2004,7 @@ Name: 荥经综合, URL: https://file.ysxtv.cn/nmip-media/channellive/channel101
 Name: 营山电视台, URL: https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 营山电视台, URL: http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 蓬安新闻综合, URL: http://palive.patv123.com:8091/live/xwpd_800K.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 金川乡村, URL: http://lmt.scqstv.com/live1/live1.m3u8?zsicd?$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 青神综合, URL: http://lmt.scqstv.com/live1/live1.m3u8?zsicd?$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 陕西新闻资讯, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 陕西都市青春, URL: http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
